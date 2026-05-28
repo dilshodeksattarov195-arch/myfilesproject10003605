@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildetch",
+        "uuid": 6954045,
+        "checksum": "kpr40q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
